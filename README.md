@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Héctor Fabio Molina A.</h1>
-<h3 align="center">Soy un Desarrollador Frontend Apasionado de las tecnologías Web y Mobile</h3>
+<h1 align="center">Hi 👋, I'm Héctor Fabio Molina Ardila.</h1>
+<h3 align="center">I am a Frontend Developer Passionate about Web and Mobile technologies</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/H3cto4](https://github.com/H3cto4)
 
